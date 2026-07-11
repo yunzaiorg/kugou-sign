@@ -1,0 +1,18 @@
+{
+  "id": "kugou-sign",
+  "name": "签到",
+  "version": "1.0.4",
+  "description": "酷狗概念版自动签到",
+  "author": "Anonymous",
+  "main": "index.js",
+  "path": "",
+  "tags": [],
+  "capabilities": {
+    "kugouApi": true,
+    "localFiles": true,
+    "kugouVerification": true
+  },
+  "requires": {
+    "echoMusicVersion": ">=2.2.8-beta.7"
+  }
+}
