@@ -1,0 +1,13 @@
+{
+  "name": "不知名插件源",
+  "homepage": "https://github.com/yunzaiorg/kugou-sign",
+  "plugins": [
+    {
+      "id": "kugou-sign",
+      "name": "签到",
+      "path": "kugou-sign",
+      "homepage": "https://github.com/yunzaiorg/kugou-sign/tree/main/kugou-sign",
+      "tags": [],
+    }
+  ]
+}
