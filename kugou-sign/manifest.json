@@ -1,7 +1,7 @@
 {
   "id": "kugou-sign",
   "name": "签到",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "酷狗概念版自动签到",
   "author": "Anonymous",
   "main": "index.js",
